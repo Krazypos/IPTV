@@ -1,0 +1,743 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="ytv.ca" tvg-name="CA YTV East " tvg-logo="" group-title="KIDS ZONE",CA YTV East 
+http://cord-cutter.net:8080/3TD0Cx/288255/63850
+#EXTINF:-1 tvg-id="aande.ca" tvg-name="CA: A&E" tvg-logo="" group-title="CANADA",CA: A&E
+http://cord-cutter.net:8080/3TD0Cx/288255/57476
+#EXTINF:-1 tvg-id="aande.ca" tvg-name="CA A&E " tvg-logo="" group-title="CANADA",CA A&E 
+http://cord-cutter.net:8080/3TD0Cx/288255/57264
+#EXTINF:-1 tvg-id="abcspark.ca" tvg-name="CA: ABC SPARK" tvg-logo="" group-title="CANADA",CA: ABC SPARK
+http://cord-cutter.net:8080/3TD0Cx/288255/57375
+#EXTINF:-1 tvg-id="amc.ca" tvg-name="CA: AMC" tvg-logo="" group-title="CANADA",CA: AMC
+http://cord-cutter.net:8080/3TD0Cx/288255/57376
+#EXTINF:-1 tvg-id="animalplanet.ca" tvg-name="CA: Animal Planet" tvg-logo="" group-title="CANADA",CA: Animal Planet
+http://cord-cutter.net:8080/3TD0Cx/288255/57377
+#EXTINF:-1 tvg-id="bnn.ca" tvg-name="CA: BNN Bloomberg HD" tvg-logo="" group-title="CANADA",CA: BNN Bloomberg HD
+http://cord-cutter.net:8080/3TD0Cx/288255/57358
+#EXTINF:-1 tvg-id="bravo.us" tvg-name="CA: Bravo" tvg-logo="" group-title="CANADA",CA: Bravo
+http://cord-cutter.net:8080/3TD0Cx/288255/57379
+#EXTINF:-1 tvg-id="cartoonnetwork.ca" tvg-name="CA Cartoon Network " tvg-logo="" group-title="KIDS ZONE",CA Cartoon Network 
+http://cord-cutter.net:8080/3TD0Cx/288255/57380
+#EXTINF:-1 tvg-id="cartoonnetwork.ca" tvg-name="CA Cartoon Network (E)" tvg-logo="" group-title="KIDS ZONE",CA Cartoon Network (E)
+http://cord-cutter.net:8080/3TD0Cx/288255/57356
+#EXTINF:-1 tvg-id="cbcnews.ca" tvg-name="CA CBC NEWS NETWORK (E)" tvg-logo="" group-title="CANADA",CA CBC NEWS NETWORK (E)
+http://cord-cutter.net:8080/3TD0Cx/288255/57304
+#EXTINF:-1 tvg-id="cbccalgary.ca" tvg-name="CA CBC Calgary HD " tvg-logo="" group-title="CANADA",CA CBC Calgary HD 
+http://cord-cutter.net:8080/3TD0Cx/288255/57381
+#EXTINF:-1 tvg-id="cbccharlottetown.ca" tvg-name="CA CBC Charlottetown HD (D)" tvg-logo="" group-title="CANADA",CA CBC Charlottetown HD (D)
+http://cord-cutter.net:8080/3TD0Cx/288255/57382
+#EXTINF:-1 tvg-id="cbcedmonton.ca" tvg-name="CA: CBC Edmonton" tvg-logo="" group-title="CANADA",CA: CBC Edmonton
+http://cord-cutter.net:8080/3TD0Cx/288255/57384
+#EXTINF:-1 tvg-id="cbchalifax.ca" tvg-name="CA CBC Halifax HD " tvg-logo="" group-title="CANADA",CA CBC Halifax HD 
+http://cord-cutter.net:8080/3TD0Cx/288255/57385
+#EXTINF:-1 tvg-id="cbcmontreal.ca" tvg-name="CA CBC Montreal HD (D) " tvg-logo="" group-title="CANADA",CA CBC Montreal HD (D) 
+http://cord-cutter.net:8080/3TD0Cx/288255/57387
+#EXTINF:-1 tvg-id="cbcottawa.ca" tvg-name="CA: CBC OTTAWA" tvg-logo="" group-title="CANADA",CA: CBC OTTAWA
+http://cord-cutter.net:8080/3TD0Cx/288255/57305
+#EXTINF:-1 tvg-id="cbctoronto.ca" tvg-name="CA CBC Toronto " tvg-logo="" group-title="CANADA",CA CBC Toronto 
+http://cord-cutter.net:8080/3TD0Cx/288255/57260
+#EXTINF:-1 tvg-id="cbctoronto.ca" tvg-name="CA: CBC TORONTO" tvg-logo="" group-title="CANADA",CA: CBC TORONTO
+http://cord-cutter.net:8080/3TD0Cx/288255/57306
+#EXTINF:-1 tvg-id="cbcvancouver.ca" tvg-name="CA: CBC Vancouver" tvg-logo="" group-title="CANADA",CA: CBC Vancouver
+http://cord-cutter.net:8080/3TD0Cx/288255/57391
+#EXTINF:-1 tvg-id="chch.ca" tvg-name="CA CHCH (E)" tvg-logo="" group-title="CANADA",CA CHCH (E)
+http://cord-cutter.net:8080/3TD0Cx/288255/57393
+#EXTINF:-1 tvg-id="chrgd.ca" tvg-name="CA: CHRGD" tvg-logo="" group-title="CANADA",CA: CHRGD
+http://cord-cutter.net:8080/3TD0Cx/288255/75653
+#EXTINF:-1 tvg-id="citytvcalgary.ca" tvg-name="CA CITY TV CALGARY (E)" tvg-logo="" group-title="CANADA",CA CITY TV CALGARY (E)
+http://cord-cutter.net:8080/3TD0Cx/288255/75652
+#EXTINF:-1 tvg-id="citytvtoronto.ca" tvg-name="CA City TV Toronto (D)" tvg-logo="" group-title="CANADA",CA City TV Toronto (D)
+http://cord-cutter.net:8080/3TD0Cx/288255/57394
+#EXTINF:-1 tvg-id="citytvtoronto.ca" tvg-name="CA: CITY TV TORONTO HD" tvg-logo="" group-title="CANADA",CA: CITY TV TORONTO HD
+http://cord-cutter.net:8080/3TD0Cx/288255/57307
+#EXTINF:-1 tvg-id="citytvvancouverqc.ca" tvg-name="CA CITY TV VANCOUVER (E)" tvg-logo="" group-title="CANADA",CA CITY TV VANCOUVER (E)
+http://cord-cutter.net:8080/3TD0Cx/288255/57395
+#EXTINF:-1 tvg-id="cmt.ca" tvg-name="CA CMT" tvg-logo="" group-title="CANADA",CA CMT
+http://cord-cutter.net:8080/3TD0Cx/288255/57258
+#EXTINF:-1 tvg-id="cnn.ca" tvg-name="CA: CNN " tvg-logo="" group-title="CANADA",CA: CNN 
+http://cord-cutter.net:8080/3TD0Cx/288255/57398
+#EXTINF:-1 tvg-id="cnn.ca" tvg-name="CA CNN " tvg-logo="" group-title="CANADA",CA CNN 
+http://cord-cutter.net:8080/3TD0Cx/288255/47213
+#EXTINF:-1 tvg-id="cottagelife.ca" tvg-name="CA Cottage Life HD (B)" tvg-logo="" group-title="CANADA",CA Cottage Life HD (B)
+http://cord-cutter.net:8080/3TD0Cx/288255/47217
+#EXTINF:-1 tvg-id="cablepulse24.ca" tvg-name="CA CP24 News HD (D)" tvg-logo="" group-title="CANADA",CA CP24 News HD (D)
+http://cord-cutter.net:8080/3TD0Cx/288255/57357
+#EXTINF:-1 tvg-id="cablepulse24.ca" tvg-name="CA CP24 News HD (E)" tvg-logo="" group-title="CANADA",CA CP24 News HD (E)
+http://cord-cutter.net:8080/3TD0Cx/288255/57401
+#EXTINF:-1 tvg-id="cablepulse24.ca" tvg-name="CA CP24 HD " tvg-logo="" group-title="CANADA",CA CP24 HD 
+http://cord-cutter.net:8080/3TD0Cx/288255/57345
+#EXTINF:-1 tvg-id="cablepulse24.ca" tvg-name="CA: CP24 FHD" tvg-logo="" group-title="CANADA",CA: CP24 FHD
+http://cord-cutter.net:8080/3TD0Cx/288255/47218
+#EXTINF:-1 tvg-id="cablepulse24.ca" tvg-name="CA: CP24 HD" tvg-logo="" group-title="CANADA",CA: CP24 HD
+http://cord-cutter.net:8080/3TD0Cx/288255/57257
+#EXTINF:-1 tvg-id="cpacottawaen.ca" tvg-name="CA: CPAC" tvg-logo="" group-title="CANADA",CA: CPAC
+http://cord-cutter.net:8080/3TD0Cx/288255/57402
+#EXTINF:-1 tvg-id="cpacottawaen.ca" tvg-name="CA: CPAC English" tvg-logo="" group-title="CANADA",CA: CPAC English
+http://cord-cutter.net:8080/3TD0Cx/288255/57352
+#EXTINF:-1 tvg-id="cpac.ca" tvg-name="CA CPAC HD " tvg-logo="" group-title="CANADA",CA CPAC HD 
+http://cord-cutter.net:8080/3TD0Cx/288255/57351
+#EXTINF:-1 tvg-id="crave1.ca" tvg-name="CA: CRAVE 1 HD" tvg-logo="" group-title="CANADA",CA: CRAVE 1 HD
+http://cord-cutter.net:8080/3TD0Cx/288255/57309
+#EXTINF:-1 tvg-id="crave2.ca" tvg-name="CA: CRAVE 2 HD" tvg-logo="" group-title="CANADA",CA: CRAVE 2 HD
+http://cord-cutter.net:8080/3TD0Cx/288255/57310
+#EXTINF:-1 tvg-id="crave3.ca" tvg-name="CA: CRAVE 3" tvg-logo="" group-title="CANADA",CA: CRAVE 3
+http://cord-cutter.net:8080/3TD0Cx/288255/57322
+#EXTINF:-1 tvg-id="crave4.ca" tvg-name="CA: CRAVE 4 HD" tvg-logo="" group-title="CANADA",CA: CRAVE 4 HD
+http://cord-cutter.net:8080/3TD0Cx/288255/57311
+#EXTINF:-1 tvg-id="crimeinvestigation.ca" tvg-name="CA: CRIME & INVESTIGATION" tvg-logo="" group-title="CANADA",CA: CRIME & INVESTIGATION
+http://cord-cutter.net:8080/3TD0Cx/288255/57256
+#EXTINF:-1 tvg-id="ctvatlantic.ca" tvg-name="CA CTV Two Atlantic " tvg-logo="" group-title="CANADA",CA CTV Two Atlantic 
+http://cord-cutter.net:8080/3TD0Cx/288255/79547
+#EXTINF:-1 tvg-id="ctvcalgary.ca" tvg-name="CA CTV CALGARY (E)" tvg-logo="" group-title="CANADA",CA CTV CALGARY (E)
+http://cord-cutter.net:8080/3TD0Cx/288255/57964
+#EXTINF:-1 tvg-id="ctvcomedyeast.ca" tvg-name="CA CTV Comedy Channel " tvg-logo="" group-title="CANADA",CA CTV Comedy Channel 
+http://cord-cutter.net:8080/3TD0Cx/288255/57408
+#EXTINF:-1 tvg-id="ctvdramachannel.ca" tvg-name="CA CTV Drama Channel (R)" tvg-logo="" group-title="CANADA",CA CTV Drama Channel (R)
+http://cord-cutter.net:8080/3TD0Cx/288255/57254
+#EXTINF:-1 tvg-id="ctvedmonton.ca" tvg-name="CA CTV Edmonton Alberta HD (D)" tvg-logo="" group-title="CANADA",CA CTV Edmonton Alberta HD (D)
+http://cord-cutter.net:8080/3TD0Cx/288255/58725
+#EXTINF:-1 tvg-id="ctvhalifax.ca" tvg-name="CA CTV Halifax Nova Scotia HD " tvg-logo="" group-title="CANADA",CA CTV Halifax Nova Scotia HD 
+http://cord-cutter.net:8080/3TD0Cx/288255/57410
+#EXTINF:-1 tvg-id="ctvkitchener.ca" tvg-name="CA CTV Kitchener " tvg-logo="" group-title="CANADA",CA CTV Kitchener 
+http://cord-cutter.net:8080/3TD0Cx/288255/58557
+#EXTINF:-1 tvg-id="ctv2london.ca" tvg-name="CA CTV 2 London HD " tvg-logo="" group-title="CANADA",CA CTV 2 London HD 
+http://cord-cutter.net:8080/3TD0Cx/288255/58546
+#EXTINF:-1 tvg-id="ctvmontreal.ca" tvg-name="CA CTV Montreal HD " tvg-logo="" group-title="CANADA",CA CTV Montreal HD 
+http://cord-cutter.net:8080/3TD0Cx/288255/47234
+#EXTINF:-1 tvg-id="ctvnews.ca" tvg-name="CA: CTV NEWS CHANNEL HD" tvg-logo="" group-title="CANADA",CA: CTV NEWS CHANNEL HD
+http://cord-cutter.net:8080/3TD0Cx/288255/57350
+#EXTINF:-1 tvg-id="ctvottawa.ca" tvg-name="CA: CTV OTTAWA" tvg-logo="" group-title="CANADA",CA: CTV OTTAWA
+http://cord-cutter.net:8080/3TD0Cx/288255/47237
+#EXTINF:-1 tvg-id="ctvregina.ca" tvg-name="CA CTV Regina Saskatchewan HD (D)" tvg-logo="" group-title="CANADA",CA CTV Regina Saskatchewan HD (D)
+http://cord-cutter.net:8080/3TD0Cx/288255/66381
+#EXTINF:-1 tvg-id="ctv.saskatoon.ca" tvg-name="CA CTV Saskatoon Saskatchewan HD (D)" tvg-logo="" group-title="CANADA",CA CTV Saskatoon Saskatchewan HD (D)
+http://cord-cutter.net:8080/3TD0Cx/288255/66382
+#EXTINF:-1 tvg-id="ctvscifichannel.ca" tvg-name="CA CTV Sci-Fi Channel (B)" tvg-logo="" group-title="CANADA",CA CTV Sci-Fi Channel (B)
+http://cord-cutter.net:8080/3TD0Cx/288255/57253
+#EXTINF:-1 tvg-id="ctvtoronto.ca" tvg-name="CA CTV Toronto HD (R)" tvg-logo="" group-title="CANADA",CA CTV Toronto HD (R)
+http://cord-cutter.net:8080/3TD0Cx/288255/47296
+#EXTINF:-1 tvg-id="ctvvancouver.ca" tvg-name="CA: CTV2 Vancouver" tvg-logo="" group-title="CANADA",CA: CTV2 Vancouver
+http://cord-cutter.net:8080/3TD0Cx/288255/57316
+#EXTINF:-1 tvg-id="ctv2windsor.ca" tvg-name="CA CTV2 Windsor HD (B)" tvg-logo="" group-title="CANADA",CA CTV2 Windsor HD (B)
+http://cord-cutter.net:8080/3TD0Cx/288255/77165
+#EXTINF:-1 tvg-id="ctv2barrie.ca" tvg-name="CA CTV Barrie Ontario HD " tvg-logo="" group-title="CANADA",CA CTV Barrie Ontario HD 
+http://cord-cutter.net:8080/3TD0Cx/288255/57373
+#EXTINF:-1 tvg-id="discoverychannel.ca" tvg-name="CA Discovery Channel " tvg-logo="" group-title="CANADA",CA Discovery Channel 
+http://cord-cutter.net:8080/3TD0Cx/288255/57252
+#EXTINF:-1 tvg-id="discoveryscience.ca" tvg-name="CA: Discovery Science" tvg-logo="" group-title="CANADA",CA: Discovery Science
+http://cord-cutter.net:8080/3TD0Cx/288255/57418
+#EXTINF:-1 tvg-id="disneyjunior.us" tvg-name="CA Disney Junior " tvg-logo="" group-title="KIDS ZONE",CA Disney Junior 
+http://cord-cutter.net:8080/3TD0Cx/288255/57349
+#EXTINF:-1 tvg-id="disneyxd.ca" tvg-name="CA Disney XD (R)" tvg-logo="" group-title="KIDS ZONE",CA Disney XD (R)
+http://cord-cutter.net:8080/3TD0Cx/288255/57420
+#EXTINF:-1 tvg-id="24taas.ca" tvg-name="CA: DIY NETWORK FHD" tvg-logo="" group-title="CANADA",CA: DIY NETWORK FHD
+http://cord-cutter.net:8080/3TD0Cx/288255/47258
+#EXTINF:-1 tvg-id="dtour.ca" tvg-name="CA: DTOUR HD" tvg-logo="" group-title="CANADA",CA: DTOUR HD
+http://cord-cutter.net:8080/3TD0Cx/288255/57250
+#EXTINF:-1 tvg-id="eentertainment.ca" tvg-name="CA E! (R)" tvg-logo="" group-title="CANADA",CA E! (R)
+http://cord-cutter.net:8080/3TD0Cx/288255/57422
+#EXTINF:-1 tvg-id="eentertainment.ca" tvg-name="CA: E! CANADA HD" tvg-logo="" group-title="CANADA",CA: E! CANADA HD
+http://cord-cutter.net:8080/3TD0Cx/288255/57249
+#EXTINF:-1 tvg-id="tv5.ca" tvg-name="CA (FR) TV5 " tvg-logo="" group-title="Canada French",CA (FR) TV5 
+http://cord-cutter.net:8080/3TD0Cx/288255/57288
+#EXTINF:-1 tvg-id="discoveryfamilia.us" tvg-name="US Discovery Family " tvg-logo="" group-title="KIDS ZONE",US Discovery Family 
+http://cord-cutter.net:8080/3TD0Cx/288255/57347
+#EXTINF:-1 tvg-id="familyjr.ca" tvg-name="CA: Family Jr HD" tvg-logo="" group-title="KIDS ZONE",CA: Family Jr HD
+http://cord-cutter.net:8080/3TD0Cx/288255/57346
+#EXTINF:-1 tvg-id="24taas.ca" tvg-name="CA Food Network" tvg-logo="" group-title="CANADA",CA Food Network
+http://cord-cutter.net:8080/3TD0Cx/288255/57247
+#EXTINF:-1 tvg-id="foxnews.us" tvg-name="CA FOX NEWS" tvg-logo="" group-title="CANADA",CA FOX NEWS
+http://cord-cutter.net:8080/3TD0Cx/288255/47281
+#EXTINF:-1 tvg-id="fx.ca" tvg-name="CA: FX HD" tvg-logo="" group-title="CANADA",CA: FX HD
+http://cord-cutter.net:8080/3TD0Cx/288255/57268
+#EXTINF:-1 tvg-id="fxx.ca" tvg-name="CA FXX " tvg-logo="" group-title="CANADA",CA FXX 
+http://cord-cutter.net:8080/3TD0Cx/288255/57429
+#EXTINF:-1 tvg-id="gameshownetwork.ca" tvg-name="CA Game Show Network HD " tvg-logo="" group-title="CANADA",CA Game Show Network HD 
+http://cord-cutter.net:8080/3TD0Cx/288255/57430
+#EXTINF:-1 tvg-id="ginxesportstvcanada.ca" tvg-name="CA: Ginx esports TV" tvg-logo="" group-title="CANADA",CA: Ginx esports TV
+http://cord-cutter.net:8080/3TD0Cx/288255/57431
+#EXTINF:-1 tvg-id="global.kingston.on.ca" tvg-name="CA Global News Kingston (D)" tvg-logo="" group-title="CANADA",CA Global News Kingston (D)
+http://cord-cutter.net:8080/3TD0Cx/288255/57432
+#EXTINF:-1 tvg-id="globaledmonton.ca" tvg-name="CA Global Edmonton News (E)" tvg-logo="" group-title="CANADA",CA Global Edmonton News (E)
+http://cord-cutter.net:8080/3TD0Cx/288255/58724
+#EXTINF:-1 tvg-id="hlobalhalifaxCIHF.ca" tvg-name="CA: Global Halifax News" tvg-logo="" group-title="CANADA",CA: Global Halifax News
+http://cord-cutter.net:8080/3TD0Cx/288255/57434
+#EXTINF:-1 tvg-id="globalregina.ca" tvg-name="CA Global News Regina (D)" tvg-logo="" group-title="CANADA",CA Global News Regina (D)
+http://cord-cutter.net:8080/3TD0Cx/288255/66384
+#EXTINF:-1 tvg-id="globalsaskatoon.ca" tvg-name="CA Global Saskatoon (B)" tvg-logo="" group-title="CANADA",CA Global Saskatoon (B)
+http://cord-cutter.net:8080/3TD0Cx/288255/66383
+#EXTINF:-1 tvg-id="globaltoronto.ca" tvg-name="CA GLOBAL TORONTO" tvg-logo="" group-title="CANADA",CA GLOBAL TORONTO
+http://cord-cutter.net:8080/3TD0Cx/288255/57435
+#EXTINF:-1 tvg-id="globaltoronto.ca" tvg-name="CA: GLOBAL TORONTO" tvg-logo="" group-title="CANADA",CA: GLOBAL TORONTO
+http://cord-cutter.net:8080/3TD0Cx/288255/57302
+#EXTINF:-1 tvg-id="global.bc.ca" tvg-name="CA: Global Vancouver" tvg-logo="" group-title="CANADA",CA: Global Vancouver
+http://cord-cutter.net:8080/3TD0Cx/288255/57436
+#EXTINF:-1 tvg-id="golfchannel.us" tvg-name="CA: Golf Channel HD" tvg-logo="" group-title="CANADA",CA: Golf Channel HD
+http://cord-cutter.net:8080/3TD0Cx/288255/57362
+#EXTINF:-1 tvg-id="hbo.ca" tvg-name="CA: HBO 1 " tvg-logo="" group-title="CANADA",CA: HBO 1 
+http://cord-cutter.net:8080/3TD0Cx/288255/57437
+#EXTINF:-1 tvg-id="hbo2.ca" tvg-name="CA HBO 2 (R)" tvg-logo="" group-title="CANADA",CA HBO 2 (R)
+http://cord-cutter.net:8080/3TD0Cx/288255/57438
+#EXTINF:-1 tvg-id="hgtv.ca" tvg-name="CA HGTV " tvg-logo="" group-title="CANADA",CA HGTV 
+http://cord-cutter.net:8080/3TD0Cx/288255/57273
+#EXTINF:-1 tvg-id="historychannel.ca" tvg-name="CA HISTORY " tvg-logo="" group-title="CANADA",CA HISTORY 
+http://cord-cutter.net:8080/3TD0Cx/288255/47302
+#EXTINF:-1 tvg-id="historychannel.ca" tvg-name="CA HISTORY (E)" tvg-logo="" group-title="CANADA",CA HISTORY (E)
+http://cord-cutter.net:8080/3TD0Cx/288255/57272
+#EXTINF:-1 tvg-id="hln.ca" tvg-name="CA: HLN" tvg-logo="" group-title="CANADA",CA: HLN
+http://cord-cutter.net:8080/3TD0Cx/288255/57441
+#EXTINF:-1 tvg-id="investigationdiscovery.ca" tvg-name="CA Investigation Discovery HD (E)" tvg-logo="" group-title="CANADA",CA Investigation Discovery HD (E)
+http://cord-cutter.net:8080/3TD0Cx/288255/57442
+#EXTINF:-1 tvg-id="lifetimetv.ca" tvg-name="CA Lifetime " tvg-logo="" group-title="CANADA",CA Lifetime 
+http://cord-cutter.net:8080/3TD0Cx/288255/57271
+#EXTINF:-1 tvg-id="a3cine.us" tvg-name="CA: Lifetime Movie Network" tvg-logo="" group-title="CANADA",CA: Lifetime Movie Network
+http://cord-cutter.net:8080/3TD0Cx/288255/57444
+#EXTINF:-1 tvg-id="lovenature.ca" tvg-name="CA Love Nature HD " tvg-logo="" group-title="CANADA",CA Love Nature HD 
+http://cord-cutter.net:8080/3TD0Cx/288255/47324
+#EXTINF:-1 tvg-id="makeful.ca" tvg-name="CA: MAKEFUL" tvg-logo="" group-title="CANADA",CA: MAKEFUL
+http://cord-cutter.net:8080/3TD0Cx/288255/57270
+#EXTINF:-1 tvg-id="movietime.ca" tvg-name="CA: MOVIETIME HD" tvg-logo="" group-title="CANADA",CA: MOVIETIME HD
+http://cord-cutter.net:8080/3TD0Cx/288255/47331
+#EXTINF:-1 tvg-id="msnbc.us" tvg-name="CA MSNBC (R)" tvg-logo="" group-title="CANADA",CA MSNBC (R)
+http://cord-cutter.net:8080/3TD0Cx/288255/47332
+#EXTINF:-1 tvg-id="mtv.ca" tvg-name="CA: MTV" tvg-logo="" group-title="CANADA",CA: MTV
+http://cord-cutter.net:8080/3TD0Cx/288255/57446
+#EXTINF:-1 tvg-id="mtv2.ca" tvg-name="CA MTV2 (E)" tvg-logo="" group-title="CANADA",CA MTV2 (E)
+http://cord-cutter.net:8080/3TD0Cx/288255/57447
+#EXTINF:-1 tvg-id="mtv.ca" tvg-name="CA: MTV HD" tvg-logo="" group-title="CANADA",CA: MTV HD
+http://cord-cutter.net:8080/3TD0Cx/288255/57368
+#EXTINF:-1 tvg-id="natgeo.ca" tvg-name="CA: National Geographics" tvg-logo="" group-title="CANADA",CA: National Geographics
+http://cord-cutter.net:8080/3TD0Cx/288255/57281
+#EXTINF:-1 tvg-id="natgeo.ca" tvg-name="CA: National Geographic  HD" tvg-logo="" group-title="CANADA",CA: National Geographic  HD
+http://cord-cutter.net:8080/3TD0Cx/288255/47338
+#EXTINF:-1 tvg-id="natgeo.ca" tvg-name="CA National Geographic Wild (R)" tvg-logo="" group-title="CANADA",CA National Geographic Wild (R)
+http://cord-cutter.net:8080/3TD0Cx/288255/57450
+#EXTINF:-1 tvg-id="natgeowild.ca" tvg-name="CA National Geographic Wild " tvg-logo="" group-title="CANADA",CA National Geographic Wild 
+http://cord-cutter.net:8080/3TD0Cx/288255/57280
+#EXTINF:-1 tvg-id="natgeo.ca" tvg-name="CA: NATIONAL GEOGRAPHIC" tvg-logo="" group-title="CANADA",CA: NATIONAL GEOGRAPHIC
+http://cord-cutter.net:8080/3TD0Cx/288255/47339
+#EXTINF:-1 tvg-id="nflnetworkcanada.ca" tvg-name="CA: NFL NETWORK HD" tvg-logo="" group-title="CANADA",CA: NFL NETWORK HD
+http://cord-cutter.net:8080/3TD0Cx/288255/47346
+#EXTINF:-1 tvg-id="nickelodeon.ca" tvg-name="CA Nickelodeon (R)" tvg-logo="" group-title="KIDS ZONE",CA Nickelodeon (R)
+http://cord-cutter.net:8080/3TD0Cx/288255/47349
+#EXTINF:-1 tvg-id="" tvg-name="CA (ZH) NTD (E)" tvg-logo="" group-title="CANADA",CA (ZH) NTD (E)
+http://cord-cutter.net:8080/3TD0Cx/288255/58023
+#EXTINF:-1 tvg-id="ntvcjon.ca" tvg-name="CA NTV St. John`s " tvg-logo="" group-title="CANADA",CA NTV St. John`s 
+http://cord-cutter.net:8080/3TD0Cx/288255/57478
+#EXTINF:-1 tvg-id="outdoorlife.ca" tvg-name="CA OLN (E)" tvg-logo="" group-title="CANADA",CA OLN (E)
+http://cord-cutter.net:8080/3TD0Cx/288255/57366
+#EXTINF:-1 tvg-id="omni1.ca" tvg-name="CA: OMNI1 HD" tvg-logo="" group-title="CANADA",CA: OMNI1 HD
+http://cord-cutter.net:8080/3TD0Cx/288255/57365
+#EXTINF:-1 tvg-id="oprahwinfreynetwork.ca" tvg-name="CA OWN " tvg-logo="" group-title="CANADA",CA OWN 
+http://cord-cutter.net:8080/3TD0Cx/288255/57277
+#EXTINF:-1 tvg-id="5.ca" tvg-name="CA: PBS HD" tvg-logo="" group-title="CANADA",CA: PBS HD
+http://cord-cutter.net:8080/3TD0Cx/288255/57276
+#EXTINF:-1 tvg-id="peachtree.ca" tvg-name="CA Peachtree TV HD (R)" tvg-logo="" group-title="CANADA",CA Peachtree TV HD (R)
+http://cord-cutter.net:8080/3TD0Cx/288255/47362
+#EXTINF:-1 tvg-id="rds.ca" tvg-name="CA (FR) RDS (R)" tvg-logo="https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/tv1_rdsinfo.png" group-title="Canada French",CA (FR) RDS (R)
+http://cord-cutter.net:8080/3TD0Cx/288255/57325
+#EXTINF:-1 tvg-id="showcase.ca" tvg-name="CA: Showcase HD" tvg-logo="" group-title="CANADA",CA: Showcase HD
+http://cord-cutter.net:8080/3TD0Cx/288255/47366
+#EXTINF:-1 tvg-id="slice.ca" tvg-name="CA Slice TV " tvg-logo="" group-title="CANADA",CA Slice TV 
+http://cord-cutter.net:8080/3TD0Cx/288255/57274
+#EXTINF:-1 tvg-id="smithsonian.ca" tvg-name="CA Smithsonian Channel (B)" tvg-logo="" group-title="CANADA",CA Smithsonian Channel (B)
+http://cord-cutter.net:8080/3TD0Cx/288255/47369
+#EXTINF:-1 tvg-id="sportsnet360.ca" tvg-name="CA Sportsnet 360 HD " tvg-logo="https://images.radio.orange.com/radios/large_cfac_960_am_calgary_alberta.png" group-title="Sports Fanatic's ",CA Sportsnet 360 HD 
+http://cord-cutter.net:8080/3TD0Cx/288255/2219
+#EXTINF:-1 tvg-id="sportsnet360.ca" tvg-name="CA Sportsnet 360 (HD)" tvg-logo="" group-title="CANADA",CA Sportsnet 360 (HD)
+http://cord-cutter.net:8080/3TD0Cx/288255/57299
+#EXTINF:-1 tvg-id="sportsneteast.ca" tvg-name="CA Sportsnet East HD (F)" tvg-logo="" group-title="CANADA",CA Sportsnet East HD (F)
+http://cord-cutter.net:8080/3TD0Cx/288255/57298
+#EXTINF:-1 tvg-id="sportsnetone.ca" tvg-name="CA Sportsnet One (FHD) " tvg-logo="" group-title="CANADA",CA Sportsnet One (FHD) 
+http://cord-cutter.net:8080/3TD0Cx/288255/57297
+#EXTINF:-1 tvg-id="sportsnetone.ca" tvg-name="CA Sportsnet One (HD) " tvg-logo="" group-title="CANADA",CA Sportsnet One (HD) 
+http://cord-cutter.net:8080/3TD0Cx/288255/47379
+#EXTINF:-1 tvg-id="sportsnetontario.ca" tvg-name="CA: Sportsnet Ontario" tvg-logo="" group-title="CANADA",CA: Sportsnet Ontario
+http://cord-cutter.net:8080/3TD0Cx/288255/57463
+#EXTINF:-1 tvg-id="sportsnetontario.ca" tvg-name="CA Sportsnet Ontario HD " tvg-logo="" group-title="CANADA",CA Sportsnet Ontario HD 
+http://cord-cutter.net:8080/3TD0Cx/288255/57296
+#EXTINF:-1 tvg-id="sportsnetontario.ca" tvg-name="CA Sportsnet Ontario (FHD) " tvg-logo="https://juicetv.app/channellogo/sportsnet.png" group-title="Sports Fanatic's ",CA Sportsnet Ontario (FHD) 
+http://cord-cutter.net:8080/3TD0Cx/288255/11649
+#EXTINF:-1 tvg-id="sportsnetpacific.ca" tvg-name="CA Sportsnet Pacific (FHD) " tvg-logo="https://juicetv.app/channellogo/sportsnet.png" group-title="Sports Fanatic's ",CA Sportsnet Pacific (FHD) 
+http://cord-cutter.net:8080/3TD0Cx/288255/9860
+#EXTINF:-1 tvg-id="2mmaroc.ca" tvg-name="CA Sportsnet Pacific HD" tvg-logo="" group-title="CANADA",CA Sportsnet Pacific HD
+http://cord-cutter.net:8080/3TD0Cx/288255/47387
+#EXTINF:-1 tvg-id="sportsnetwest.ca" tvg-name="CA Sportsnet West (FHD)" tvg-logo="https://juicetv.app/channellogo/sportsnet.png" group-title="Sports Fanatic's ",CA Sportsnet West (FHD)
+http://cord-cutter.net:8080/3TD0Cx/288255/20975
+#EXTINF:-1 tvg-id="sportsnetwest.ca" tvg-name="CA: SPORTSNET WEST" tvg-logo="" group-title="CANADA",CA: SPORTSNET WEST
+http://cord-cutter.net:8080/3TD0Cx/288255/57300
+#EXTINF:-1 tvg-id="sportsnet.world.ca" tvg-name="CA Sportsnet World HD " tvg-logo="" group-title="Sports Fanatic's ",CA Sportsnet World HD 
+http://cord-cutter.net:8080/3TD0Cx/288255/75675
+#EXTINF:-1 tvg-id="syfy.us" tvg-name="CA CTV SCI-FI " tvg-logo="" group-title="CANADA",CA CTV SCI-FI 
+http://cord-cutter.net:8080/3TD0Cx/288255/57464
+#EXTINF:-1 tvg-id="teletoon.ca" tvg-name="CA Teletoon East (E)" tvg-logo="" group-title="KIDS ZONE",CA Teletoon East (E)
+http://cord-cutter.net:8080/3TD0Cx/288255/57372
+#EXTINF:-1 tvg-id="tfo.ca" tvg-name="CA: TFO  (FR)" tvg-logo="" group-title="CANADA",CA: TFO  (FR)
+http://cord-cutter.net:8080/3TD0Cx/288255/57291
+#EXTINF:-1 tvg-id="tlc.ca" tvg-name="CA TLC " tvg-logo="" group-title="CANADA",CA TLC 
+http://cord-cutter.net:8080/3TD0Cx/288255/57290
+#EXTINF:-1 tvg-id="treehouse.ca" tvg-name="CA Treehouse (R)" tvg-logo="" group-title="KIDS ZONE",CA Treehouse (R)
+http://cord-cutter.net:8080/3TD0Cx/288255/57371
+#EXTINF:-1 tvg-id="todaysshoppingchoice.ca" tvg-name="CA : The Shopping Channel (B)" tvg-logo="" group-title="CANADA",CA : The Shopping Channel (B)
+http://cord-cutter.net:8080/3TD0Cx/288255/57370
+#EXTINF:-1 tvg-id="vision.ca" tvg-name="CA: Vision" tvg-logo="" group-title="CANADA",CA: Vision
+http://cord-cutter.net:8080/3TD0Cx/288255/57468
+#EXTINF:-1 tvg-id="wnetwork.ca" tvg-name="CA W Network East (E)" tvg-logo="" group-title="CANADA",CA W Network East (E)
+http://cord-cutter.net:8080/3TD0Cx/288255/57284
+#EXTINF:-1 tvg-id="theweathernetwork.ca" tvg-name="CA: Weather Network Toronto" tvg-logo="" group-title="CANADA",CA: Weather Network Toronto
+http://cord-cutter.net:8080/3TD0Cx/288255/57470
+#EXTINF:-1 tvg-id="wfn.world.fishing.network.ca" tvg-name="CA: World Fishing Network" tvg-logo="" group-title="CANADA",CA: World Fishing Network
+http://cord-cutter.net:8080/3TD0Cx/288255/57471
+#EXTINF:-1 tvg-id="" tvg-name="CBC  One Toronto" tvg-logo="https://cdn-profiles.tunein.com/s1198/images/logog.png" group-title="Radio Stations",CBC  One Toronto
+http://cord-cutter.net:8080/3TD0Cx/288255/16243
+#EXTINF:-1 tvg-id="" tvg-name="CBC Grand Falls NL" tvg-logo="https://cdn-profiles.tunein.com/s1198/images/logog.png" group-title="Radio Stations",CBC Grand Falls NL
+http://cord-cutter.net:8080/3TD0Cx/288255/16244
+#EXTINF:-1 tvg-id="skyaction.uk" tvg-name="UK: SKY CINEMA ACTION FHD" tvg-logo="" group-title="MOVIE NETWORKS",UK: SKY CINEMA ACTION FHD
+http://cord-cutter.net:8080/3TD0Cx/288255/35254
+#EXTINF:-1 tvg-id="skydrama.uk" tvg-name="UK MOVIES: SKY CINEMA DRAMA" tvg-logo="" group-title="MOVIE NETWORKS",UK MOVIES: SKY CINEMA DRAMA
+http://cord-cutter.net:8080/3TD0Cx/288255/35251
+#EXTINF:-1 tvg-id="skyscifihorror.uk" tvg-name="UK Sky Cinema Scifi & Horror FHD  " tvg-logo="" group-title="MOVIE NETWORKS",UK Sky Cinema Scifi & Horror FHD  
+http://cord-cutter.net:8080/3TD0Cx/288255/35248
+#EXTINF:-1 tvg-id="skycomedy.uk" tvg-name="UK MOVIES: SKY COMEDY" tvg-logo="" group-title="MOVIE NETWORKS",UK MOVIES: SKY COMEDY
+http://cord-cutter.net:8080/3TD0Cx/288255/35253
+#EXTINF:-1 tvg-id="skythriller.uk" tvg-name="UK MOVIES: SKY CRIME THRILLER" tvg-logo="" group-title="MOVIE NETWORKS",UK MOVIES: SKY CRIME THRILLER
+http://cord-cutter.net:8080/3TD0Cx/288255/35252
+#EXTINF:-1 tvg-id="skygreats.uk" tvg-name="UK MOVIES: SKY GREATS" tvg-logo="" group-title="MOVIE NETWORKS",UK MOVIES: SKY GREATS
+http://cord-cutter.net:8080/3TD0Cx/288255/35249
+#EXTINF:-1 tvg-id="rte.1.gb" tvg-name="UK: RTE NEWS" tvg-logo="" group-title="UK UNITED KINGDOM",UK: RTE NEWS
+http://cord-cutter.net:8080/3TD0Cx/288255/79108
+#EXTINF:-1 tvg-id="fiveusa.uk" tvg-name="UK-5 " tvg-logo="" group-title="UK UNITED KINGDOM",UK-5 
+http://cord-cutter.net:8080/3TD0Cx/288255/53675
+#EXTINF:-1 tvg-id="alibi.uk" tvg-name="UK-Alibi" tvg-logo="" group-title="UK UNITED KINGDOM",UK-Alibi
+http://cord-cutter.net:8080/3TD0Cx/288255/59030
+#EXTINF:-1 tvg-id="bbcnews.uk" tvg-name="UK: BBC NEWS" tvg-logo="" group-title="UK UNITED KINGDOM",UK: BBC NEWS
+http://cord-cutter.net:8080/3TD0Cx/288255/53757
+#EXTINF:-1 tvg-id="bbc.one.gb" tvg-name="UK-BBC One" tvg-logo="" group-title="UK UNITED KINGDOM",UK-BBC One
+http://cord-cutter.net:8080/3TD0Cx/288255/53649
+#EXTINF:-1 tvg-id="bbc1scotland.uk" tvg-name="UK-BBC One Scotland" tvg-logo="" group-title="UK UNITED KINGDOM",UK-BBC One Scotland
+http://cord-cutter.net:8080/3TD0Cx/288255/53755
+#EXTINF:-1 tvg-id="bbc2.uk" tvg-name="UK: BBC TWO HD" tvg-logo="" group-title="UK UNITED KINGDOM",UK: BBC TWO HD
+http://cord-cutter.net:8080/3TD0Cx/288255/53650
+#EXTINF:-1 tvg-id="blaze.uk" tvg-name="UK-Blaze" tvg-logo="" group-title="UK UNITED KINGDOM",UK-Blaze
+http://cord-cutter.net:8080/3TD0Cx/288255/53754
+#EXTINF:-1 tvg-id="bloombergtv.uk" tvg-name="UK-Boomerang" tvg-logo="" group-title="UK UNITED KINGDOM",UK-Boomerang
+http://cord-cutter.net:8080/3TD0Cx/288255/53718
+#EXTINF:-1 tvg-id="cartoonnetwork.uk" tvg-name="UK-Cartoon Network" tvg-logo="" group-title="UK UNITED KINGDOM",UK-Cartoon Network
+http://cord-cutter.net:8080/3TD0Cx/288255/53719
+#EXTINF:-1 tvg-id="cbbc.uk" tvg-name="UK-CBBC" tvg-logo="" group-title="UK UNITED KINGDOM",UK-CBBC
+http://cord-cutter.net:8080/3TD0Cx/288255/53720
+#EXTINF:-1 tvg-id="cbsreality.uk" tvg-name="UK CBS Reality" tvg-logo="" group-title="UK UNITED KINGDOM",UK CBS Reality
+http://cord-cutter.net:8080/3TD0Cx/288255/53752
+#EXTINF:-1 tvg-id="channel5.uk" tvg-name="UK-Channel 5" tvg-logo="" group-title="UK UNITED KINGDOM",UK-Channel 5
+http://cord-cutter.net:8080/3TD0Cx/288255/53653
+#EXTINF:-1 tvg-id="comedycentral.uk" tvg-name="UK-Comedy Central" tvg-logo="" group-title="UK UNITED KINGDOM",UK-Comedy Central
+http://cord-cutter.net:8080/3TD0Cx/288255/53660
+#EXTINF:-1 tvg-id="crimeandinvestigationnetwork.uk" tvg-name="UK Crime & Investigation FHD (D)" tvg-logo="" group-title="UK UNITED KINGDOM",UK Crime & Investigation FHD (D)
+http://cord-cutter.net:8080/3TD0Cx/288255/53689
+#EXTINF:-1 tvg-id="dave.uk" tvg-name="UK-Dave" tvg-logo="" group-title="UK UNITED KINGDOM",UK-Dave
+http://cord-cutter.net:8080/3TD0Cx/288255/53659
+#EXTINF:-1 tvg-id="discoverychannel.uk" tvg-name="UK-Discovery Channel" tvg-logo="" group-title="UK UNITED KINGDOM",UK-Discovery Channel
+http://cord-cutter.net:8080/3TD0Cx/288255/53684
+#EXTINF:-1 tvg-id="discoveryhistory.uk" tvg-name="UK-Discovery History" tvg-logo="" group-title="UK UNITED KINGDOM",UK-Discovery History
+http://cord-cutter.net:8080/3TD0Cx/288255/53694
+#EXTINF:-1 tvg-id="discoveryscience.uk" tvg-name="UK-Discovery Science" tvg-logo="" group-title="UK UNITED KINGDOM",UK-Discovery Science
+http://cord-cutter.net:8080/3TD0Cx/288255/53695
+#EXTINF:-1 tvg-id="drama.uk" tvg-name="UK-Drama" tvg-logo="" group-title="UK UNITED KINGDOM",UK-Drama
+http://cord-cutter.net:8080/3TD0Cx/288255/53677
+#EXTINF:-1 tvg-id="e4.uk" tvg-name="UK-E4" tvg-logo="" group-title="UK UNITED KINGDOM",UK-E4
+http://cord-cutter.net:8080/3TD0Cx/288255/53672
+#EXTINF:-1 tvg-id="eurosport1.uk" tvg-name="UK EuroSport 1 UK (P)" tvg-logo="" group-title="UK UNITED KINGDOM",UK EuroSport 1 UK (P)
+http://cord-cutter.net:8080/3TD0Cx/288255/53713
+#EXTINF:-1 tvg-id="film4.uk" tvg-name="UK-Film 4" tvg-logo="" group-title="UK UNITED KINGDOM",UK-Film 4
+http://cord-cutter.net:8080/3TD0Cx/288255/53702
+#EXTINF:-1 tvg-id="history2.uk" tvg-name="UK-H2" tvg-logo="" group-title="UK UNITED KINGDOM",UK-H2
+http://cord-cutter.net:8080/3TD0Cx/288255/53692
+#EXTINF:-1 tvg-id="discoveryhistory.uk" tvg-name="UK History  Channel" tvg-logo="" group-title="UK UNITED KINGDOM",UK History  Channel
+http://cord-cutter.net:8080/3TD0Cx/288255/53686
+#EXTINF:-1 tvg-id="investigationdiscovery.uk" tvg-name="UK-Investigation Discovery" tvg-logo="" group-title="UK UNITED KINGDOM",UK-Investigation Discovery
+http://cord-cutter.net:8080/3TD0Cx/288255/53687
+#EXTINF:-1 tvg-id="itv1anglia.uk" tvg-name="UK-ITV" tvg-logo="" group-title="UK UNITED KINGDOM",UK-ITV
+http://cord-cutter.net:8080/3TD0Cx/288255/53651
+#EXTINF:-1 tvg-id="itv3.uk" tvg-name="UK-ITV 3" tvg-logo="" group-title="UK UNITED KINGDOM",UK-ITV 3
+http://cord-cutter.net:8080/3TD0Cx/288255/53665
+#EXTINF:-1 tvg-id="itv4.uk" tvg-name="UK-ITV 4" tvg-logo="" group-title="UK UNITED KINGDOM",UK-ITV 4
+http://cord-cutter.net:8080/3TD0Cx/288255/53666
+#EXTINF:-1 tvg-id="itv1anglia.uk" tvg-name="UK ITV2 HD " tvg-logo="" group-title="UK UNITED KINGDOM",UK ITV2 HD 
+http://cord-cutter.net:8080/3TD0Cx/288255/53671
+#EXTINF:-1 tvg-id="more4.uk" tvg-name="UK-More4" tvg-logo="" group-title="UK UNITED KINGDOM",UK-More4
+http://cord-cutter.net:8080/3TD0Cx/288255/53673
+#EXTINF:-1 tvg-id="mtv.classic.gb" tvg-name="US MTV Classic (A)" tvg-logo="" group-title="UK UNITED KINGDOM",US MTV Classic (A)
+http://cord-cutter.net:8080/3TD0Cx/288255/53734
+#EXTINF:-1 tvg-id="mtvhits.uk" tvg-name="UK-MTV Hits" tvg-logo="" group-title="UK UNITED KINGDOM",UK-MTV Hits
+http://cord-cutter.net:8080/3TD0Cx/288255/53735
+#EXTINF:-1 tvg-id="mtv.uk" tvg-name="UK-MTV UK" tvg-logo="" group-title="UK UNITED KINGDOM",UK-MTV UK
+http://cord-cutter.net:8080/3TD0Cx/288255/53737
+#EXTINF:-1 tvg-id="mutv.uk" tvg-name="UK-MUTV" tvg-logo="" group-title="UK UNITED KINGDOM",UK-MUTV
+http://cord-cutter.net:8080/3TD0Cx/288255/53717
+#EXTINF:-1 tvg-id="national.geographic.wild.gb" tvg-name="UK-Nat Geo Wild" tvg-logo="" group-title="UK UNITED KINGDOM",UK-Nat Geo Wild
+http://cord-cutter.net:8080/3TD0Cx/288255/53693
+#EXTINF:-1 tvg-id="nickelodeon.uk" tvg-name="UK: NICKELODEON" tvg-logo="" group-title="UK UNITED KINGDOM",UK: NICKELODEON
+http://cord-cutter.net:8080/3TD0Cx/288255/53728
+#EXTINF:-1 tvg-id="skyanimation.uk" tvg-name="UK-Sky Cinema Animation" tvg-logo="" group-title="UK UNITED KINGDOM",UK-Sky Cinema Animation
+http://cord-cutter.net:8080/3TD0Cx/288255/53698
+#EXTINF:-1 tvg-id="skyfamily.uk" tvg-name="UK-Sky Cinema Family" tvg-logo="" group-title="UK UNITED KINGDOM",UK-Sky Cinema Family
+http://cord-cutter.net:8080/3TD0Cx/288255/53699
+#EXTINF:-1 tvg-id="skypremiere.uk" tvg-name="UK-Sky Cinema Premier" tvg-logo="" group-title="MOVIE NETWORKS",UK-Sky Cinema Premier
+http://cord-cutter.net:8080/3TD0Cx/288255/35256
+#EXTINF:-1 tvg-id="skycomedyhd.uk" tvg-name="UK Sky Cinema Comedy " tvg-logo="" group-title="UK UNITED KINGDOM",UK Sky Cinema Comedy 
+http://cord-cutter.net:8080/3TD0Cx/288255/53661
+#EXTINF:-1 tvg-id="skynews.uk" tvg-name="UK: SKY NEWS" tvg-logo="" group-title="UK UNITED KINGDOM",UK: SKY NEWS
+http://cord-cutter.net:8080/3TD0Cx/288255/77166
+#EXTINF:-1 tvg-id="syfy.uk" tvg-name="UK SKY SciFI FHD (D)" tvg-logo="" group-title="UK UNITED KINGDOM",UK SKY SciFI FHD (D)
+http://cord-cutter.net:8080/3TD0Cx/288255/53663
+#EXTINF:-1 tvg-id="pop.uk" tvg-name="UK- Pop" tvg-logo="" group-title="UK UNITED KINGDOM",UK- Pop
+http://cord-cutter.net:8080/3TD0Cx/288255/53730
+#EXTINF:-1 tvg-id="discoverychannel.us" tvg-name="US Disney Channel East (A)" tvg-logo="https://logodix.com/logo/619307.png" group-title="KIDS ZONE",US Disney Channel East (A)
+http://cord-cutter.net:8080/3TD0Cx/288255/2206
+#EXTINF:-1 tvg-id="disneychannel.us" tvg-name="US: Disney XD" tvg-logo="" group-title="KIDS ZONE",US: Disney XD
+http://cord-cutter.net:8080/3TD0Cx/288255/75621
+#EXTINF:-1 tvg-id="lifetimemovies.us" tvg-name="US Lifetime Movies " tvg-logo="https://findvectorlogo.com/wp-content/uploads/2020/01/lifetime-movies-vector-logo.png" group-title="MOVIE NETWORKS",US Lifetime Movies 
+http://cord-cutter.net:8080/3TD0Cx/288255/20863
+#EXTINF:-1 tvg-id="nicktoons.us" tvg-name="US NickToons " tvg-logo="https://juicetv.app/channellogo/nickelodeon.png" group-title="KIDS ZONE",US NickToons 
+http://cord-cutter.net:8080/3TD0Cx/288255/36
+#EXTINF:-1 tvg-id="aande.us" tvg-name="US A&E (A)" tvg-logo="https://juicetv.app/channellogo/ae.png" group-title="USA ",US A&E (A)
+http://cord-cutter.net:8080/3TD0Cx/288255/2201
+#EXTINF:-1 tvg-id="" tvg-name="USA: ABC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/American_Broadcasting_Company_Logo.svg/479px-American_Broadcasting_Company_Logo.svg.png" group-title="USA ",USA: ABC
+http://cord-cutter.net:8080/3TD0Cx/288255/22990
+#EXTINF:-1 tvg-id="accnetwork.us" tvg-name="US ACC Network (A)" tvg-logo="https://b.thumbs.redditmedia.com/vjPoCrRZM-0Guub5k9HskQWodjmjP1OF3myBvaqLWGE.png" group-title="Sports Fanatic's ",US ACC Network (A)
+http://cord-cutter.net:8080/3TD0Cx/288255/9273
+#EXTINF:-1 tvg-id="actionmaxpacific.us" tvg-name="US ActionMAX (East) " tvg-logo="" group-title="MOVIE NETWORKS",US ActionMAX (East) 
+http://cord-cutter.net:8080/3TD0Cx/288255/21013
+#EXTINF:-1 tvg-id="adultswim.us" tvg-name="CA Adult Swim (R)" tvg-logo="https://www.nicepng.com/png/detail/326-3269271_adult-swim-adult-swim-logo-png.png" group-title="USA ",CA Adult Swim (R)
+http://cord-cutter.net:8080/3TD0Cx/288255/11644
+#EXTINF:-1 tvg-id="altitudesport.us" tvg-name="US Altitude Sports HD " tvg-logo="" group-title="USA ",US Altitude Sports HD 
+http://cord-cutter.net:8080/3TD0Cx/288255/79545
+#EXTINF:-1 tvg-id="amc.us" tvg-name="US AMC " tvg-logo="https://seeklogo.com/images/A/amc-logo-36BD2C5A01-seeklogo.com.png" group-title="USA ",US AMC 
+http://cord-cutter.net:8080/3TD0Cx/288255/18925
+#EXTINF:-1 tvg-id="americanheroeschannel.us" tvg-name="US American Heroes Channel " tvg-logo="" group-title="USA ",US American Heroes Channel 
+http://cord-cutter.net:8080/3TD0Cx/288255/10456
+#EXTINF:-1 tvg-id="animalplanet.us" tvg-name="US Animal Planet " tvg-logo="https://i.pinimg.com/originals/d1/18/a4/d118a4d4198818532da51e0a0bfb7969.png" group-title="USA ",US Animal Planet 
+http://cord-cutter.net:8080/3TD0Cx/288255/17870
+#EXTINF:-1 tvg-id="antennatv.us" tvg-name="US Antenna TV " tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/2c/Antenna_TV_logo.svg/175px-Antenna_TV_logo.svg.png" group-title="USA ",US Antenna TV 
+http://cord-cutter.net:8080/3TD0Cx/288255/20180
+#EXTINF:-1 tvg-id="aspiretv.us" tvg-name="US Aspire (A)" tvg-logo="" group-title="USA ",US Aspire (A)
+http://cord-cutter.net:8080/3TD0Cx/288255/21927
+#EXTINF:-1 tvg-id="axstv.us" tvg-name="US AXS TV " tvg-logo="" group-title="USA ",US AXS TV 
+http://cord-cutter.net:8080/3TD0Cx/288255/48324
+#EXTINF:-1 tvg-id="babyfirst.us" tvg-name="USA: Baby First HD" tvg-logo="" group-title="USA ",USA: Baby First HD
+http://cord-cutter.net:8080/3TD0Cx/288255/58765
+#EXTINF:-1 tvg-id="bbcamerica.us" tvg-name="US BBC America" tvg-logo="https://b1.pngbarn.com/png/484/73/tv-channel-icons-pack-bbc-america-black-png-clip-art.png" group-title="USA ",US BBC America
+http://cord-cutter.net:8080/3TD0Cx/288255/20194
+#EXTINF:-1 tvg-id="bet.us" tvg-name="US BET (East) " tvg-logo="" group-title="USA ",US BET (East) 
+http://cord-cutter.net:8080/3TD0Cx/288255/46703
+#EXTINF:-1 tvg-id="betgospel.us" tvg-name="USA: Bet Gospel" tvg-logo="" group-title="USA ",USA: Bet Gospel
+http://cord-cutter.net:8080/3TD0Cx/288255/66080
+#EXTINF:-1 tvg-id="bether.us" tvg-name="US BET (East)  " tvg-logo="https://www.pinclipart.com/picdir/middle/396-3966034_bet-her-logo-png-clipart.png" group-title="USA ",US BET (East)  
+http://cord-cutter.net:8080/3TD0Cx/288255/13702
+#EXTINF:-1 tvg-id="betsoul.us" tvg-name="USA: BET SOUL" tvg-logo="" group-title="USA ",USA: BET SOUL
+http://cord-cutter.net:8080/3TD0Cx/288255/21844
+#EXTINF:-1 tvg-id="bigtennetwork.us" tvg-name="US Big Ten HD" tvg-logo="https://btn.com/wp-content/uploads/2019/12/btn.png" group-title="Sports Fanatic's ",US Big Ten HD
+http://cord-cutter.net:8080/3TD0Cx/288255/9828
+#EXTINF:-1 tvg-id="bloombergtv.us" tvg-name="US Bloomberg" tvg-logo="https://www.flirtey.com/wp-content/uploads/2018/04/bloomberg-logo.png" group-title="USA ",US Bloomberg
+http://cord-cutter.net:8080/3TD0Cx/288255/15158
+#EXTINF:-1 tvg-id="boomerang.us" tvg-name="US Boomerang " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Boomerang_tv_logo.png/758px-Boomerang_tv_logo.png" group-title="KIDS ZONE",US Boomerang 
+http://cord-cutter.net:8080/3TD0Cx/288255/14741
+#EXTINF:-1 tvg-id="bouncetv.us" tvg-name="US Bounce XL " tvg-logo="" group-title="USA ",US Bounce XL 
+http://cord-cutter.net:8080/3TD0Cx/288255/48323
+#EXTINF:-1 tvg-id="bravo.us" tvg-name="US Bravo (East)   " tvg-logo="https://www.clipartmax.com/png/middle/114-1140555_bravotv-my-sad-addiction-bravo-tv-logo-png.png" group-title="USA ",US Bravo (East)   
+http://cord-cutter.net:8080/3TD0Cx/288255/20859
+#EXTINF:-1 tvg-id="buzzertv.us" tvg-name="US BUZZR (STV)" tvg-logo="" group-title="USA ",US BUZZR (STV)
+http://cord-cutter.net:8080/3TD0Cx/288255/21896
+#EXTINF:-1 tvg-id="cartoonnetwork.us" tvg-name="US Cartoon Network " tvg-logo="" group-title="USA ",US Cartoon Network 
+http://cord-cutter.net:8080/3TD0Cx/288255/46708
+#EXTINF:-1 tvg-id="cbssportsnetworkusa.us" tvg-name="US CBS Sports Network HD " tvg-logo="https://juicetv.app/channellogo/cbs.png" group-title="Sports Fanatic's ",US CBS Sports Network HD 
+http://cord-cutter.net:8080/3TD0Cx/288255/10454
+#EXTINF:-1 tvg-id="" tvg-name="US CBS News " tvg-logo="" group-title="USA ",US CBS News 
+http://cord-cutter.net:8080/3TD0Cx/288255/21259
+#EXTINF:-1 tvg-id="cinemax.us" tvg-name="US Cinemax (East) " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png" group-title="MOVIE NETWORKS",US Cinemax (East) 
+http://cord-cutter.net:8080/3TD0Cx/288255/13380
+#EXTINF:-1 tvg-id="cmt.us" tvg-name="USA: CMT" tvg-logo="" group-title="USA ",USA: CMT
+http://cord-cutter.net:8080/3TD0Cx/288255/46706
+#EXTINF:-1 tvg-id="cmt.us" tvg-name="USA: CMT HD" tvg-logo="https://www.vippng.com/png/detail/66-665473_cmt-logo-cmt-network-logo-png.png" group-title="USA ",USA: CMT HD
+http://cord-cutter.net:8080/3TD0Cx/288255/10476
+#EXTINF:-1 tvg-id="cnbc.us" tvg-name="US CNBC " tvg-logo="https://piketrail.com/wp-content/uploads/2019/09/cnbclogo.png" group-title="USA ",US CNBC 
+http://cord-cutter.net:8080/3TD0Cx/288255/9815
+#EXTINF:-1 tvg-id="cnbcworld.us" tvg-name="US CNBC World" tvg-logo="https://piketrail.com/wp-content/uploads/2019/09/cnbclogo.png" group-title="USA ",US CNBC World
+http://cord-cutter.net:8080/3TD0Cx/288255/20860
+#EXTINF:-1 tvg-id="cnn.us" tvg-name="US CNN " tvg-logo="https://juicetv.app/channellogo/cnn2.png" group-title="USA ",US CNN 
+http://cord-cutter.net:8080/3TD0Cx/288255/1817
+#EXTINF:-1 tvg-id="cnn.us" tvg-name="US CNN " tvg-logo="" group-title="USA ",US CNN 
+http://cord-cutter.net:8080/3TD0Cx/288255/104884
+#EXTINF:-1 tvg-id="comedycentral.us" tvg-name="US Comedy Central (East) " tvg-logo="https://d26oc3sg82pgk3.cloudfront.net/files/media/edit/image/34767/square_thumb%402x.png" group-title="USA ",US Comedy Central (East) 
+http://cord-cutter.net:8080/3TD0Cx/288255/7466
+#EXTINF:-1 tvg-id="comet.us" tvg-name="US Comet (S)" tvg-logo="" group-title="USA ",US Comet (S)
+http://cord-cutter.net:8080/3TD0Cx/288255/66244
+#EXTINF:-1 tvg-id="cookingchannel.us" tvg-name="US Cooking Channel " tvg-logo="https://kodi.tv/sites/default/files/styles/medium_crop/public/addon_assets/plugin.video.cook/icon/icon.png" group-title="USA ",US Cooking Channel 
+http://cord-cutter.net:8080/3TD0Cx/288255/9229
+#EXTINF:-1 tvg-id="cozinetwork.us" tvg-name="US Cozi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/Cozi_TV_logo.png" group-title="USA ",US Cozi
+http://cord-cutter.net:8080/3TD0Cx/288255/11868
+#EXTINF:-1 tvg-id="decadeswvah.us" tvg-name="US Decades " tvg-logo="https://decades.com/images/logo_tagline.png" group-title="USA ",US Decades 
+http://cord-cutter.net:8080/3TD0Cx/288255/20189
+#EXTINF:-1 tvg-id="destinationamerica.us" tvg-name="US Destination America (A)" tvg-logo="https://fontmeme.com/images/destination-america-new-logo.png" group-title="USA ",US Destination America (A)
+http://cord-cutter.net:8080/3TD0Cx/288255/14222
+#EXTINF:-1 tvg-id="discoverychannel.us" tvg-name="US Discovery Channel (East)" tvg-logo="" group-title="USA ",US Discovery Channel (East)
+http://cord-cutter.net:8080/3TD0Cx/288255/46720
+#EXTINF:-1 tvg-id="discoverychannel.us" tvg-name="US Discovery Channel East " tvg-logo="https://logodix.com/logo/997920.png" group-title="USA ",US Discovery Channel East 
+http://cord-cutter.net:8080/3TD0Cx/288255/9811
+#EXTINF:-1 tvg-id="discoveryfamily.us" tvg-name="USA: DISCOVERY FAMILY" tvg-logo="https://png.pngitem.com/pimgs/s/452-4528679_discovery-family-channel-logo-hd-png-download.png" group-title="USA ",USA: DISCOVERY FAMILY
+http://cord-cutter.net:8080/3TD0Cx/288255/10538
+#EXTINF:-1 tvg-id="discoverylife.us" tvg-name="USA: Discovery Life HD" tvg-logo="https://logodix.com/logo/997920.png" group-title="USA ",USA: Discovery Life HD
+http://cord-cutter.net:8080/3TD0Cx/288255/9861
+#EXTINF:-1 tvg-id="discoveryvelocity.us" tvg-name="CA Discovery Velocity HD " tvg-logo="" group-title="USA ",CA Discovery Velocity HD 
+http://cord-cutter.net:8080/3TD0Cx/288255/46212
+#EXTINF:-1 tvg-id="magnolianetwork.us" tvg-name="US DIY Network " tvg-logo="https://dockanddeck.com/wp-content/uploads/2019/02/diy.png" group-title="USA ",US DIY Network 
+http://cord-cutter.net:8080/3TD0Cx/288255/10503
+#EXTINF:-1 tvg-id="dogtv.us" tvg-name="USA: DOGTV" tvg-logo="" group-title="USA ",USA: DOGTV
+http://cord-cutter.net:8080/3TD0Cx/288255/53539
+#EXTINF:-1 tvg-id="eentertainment.us" tvg-name="US E! Entertainment Television East " tvg-logo="https://cdn.tvpassport.com/image/station/240x135/eentertain.png" group-title="USA ",US E! Entertainment Television East 
+http://cord-cutter.net:8080/3TD0Cx/288255/11651
+#EXTINF:-1 tvg-id="epix.us" tvg-name="US EPIX (East) " tvg-logo="https://seeklogo.com/images/E/epix-entertainment-llc-logo-98DC100C56-seeklogo.com.png" group-title="MOVIE NETWORKS",US EPIX (East) 
+http://cord-cutter.net:8080/3TD0Cx/288255/13214
+#EXTINF:-1 tvg-id="epixdrivein.us" tvg-name="US Epix Drive IN (S)" tvg-logo="https://logodix.com/logo/1104724.png" group-title="MOVIE NETWORKS",US Epix Drive IN (S)
+http://cord-cutter.net:8080/3TD0Cx/288255/14193
+#EXTINF:-1 tvg-id="epixhits.us" tvg-name="USA: Epix Hits" tvg-logo="https://sc.dish.com/shared/images/station-logos/EPIXH.PNG" group-title="MOVIE NETWORKS",USA: Epix Hits
+http://cord-cutter.net:8080/3TD0Cx/288255/12744
+#EXTINF:-1 tvg-id="epix2.us" tvg-name="US EPIX2 (East)" tvg-logo="https://seeklogo.com/images/E/epix-entertainment-llc-logo-98DC100C56-seeklogo.com.png" group-title="MOVIE NETWORKS",US EPIX2 (East)
+#EXTINF:-1 tvg-id="freeform.us" tvg-name="US Freeform East" tvg-logo="https://www.vhv.rs/dpng/d/553-5538230_freeform-freeform-logo-png-transparent-png.png" group-title="USA ",US Freeform East
+http://cord-cutter.net:8080/3TD0Cx/288255/13370
+#EXTINF:-1 tvg-id="fusetv.us" tvg-name="US Fuse " tvg-logo="" group-title="USA ",US Fuse 
+http://cord-cutter.net:8080/3TD0Cx/288255/46701
+#EXTINF:-1 tvg-id="fx.us" tvg-name="US FX East " tvg-logo="" group-title="USA ",US FX East 
+http://cord-cutter.net:8080/3TD0Cx/288255/46690
+#EXTINF:-1 tvg-id="fxm.us" tvg-name="US FXM " tvg-logo="https://lamac.org/wp-content/uploads/2020/04/Group-63@2x.png" group-title="USA ",US FXM 
+http://cord-cutter.net:8080/3TD0Cx/288255/10260
+#EXTINF:-1 tvg-id="fxx.us" tvg-name="US FXX (East) " tvg-logo="" group-title="USA ",US FXX (East) 
+http://cord-cutter.net:8080/3TD0Cx/288255/46699
+#EXTINF:-1 tvg-id="fyi.us" tvg-name="US FYI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/12/FYI%2C_logo.png" group-title="USA ",US FYI
+http://cord-cutter.net:8080/3TD0Cx/288255/9240
+#EXTINF:-1 tvg-id="galavision.us" tvg-name="US Latin Galavision" tvg-logo="" group-title="USA ",US Latin Galavision
+http://cord-cutter.net:8080/3TD0Cx/288255/58770
+#EXTINF:-1 tvg-id="gettv.us" tvg-name="US GetTV " tvg-logo="https://logodix.com/logo/1826254.png" group-title="USA ",US GetTV 
+http://cord-cutter.net:8080/3TD0Cx/288255/18366
+#EXTINF:-1 tvg-id="gacfamily.us" tvg-name="US Great American Country " tvg-logo="https://www.prizestakes.com/wp-content/uploads/2018/08/47-471x320.png" group-title="USA ",US Great American Country 
+http://cord-cutter.net:8080/3TD0Cx/288255/17640
+#EXTINF:-1 tvg-id="grit.us" tvg-name="US Grit TV" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/grittv.png" group-title="USA ",US Grit TV
+http://cord-cutter.net:8080/3TD0Cx/288255/20861
+#EXTINF:-1 tvg-id="hallmark.us" tvg-name="US Hallmark Channel" tvg-logo="" group-title="USA ",US Hallmark Channel
+http://cord-cutter.net:8080/3TD0Cx/288255/46719
+#EXTINF:-1 tvg-id="andtv.us" tvg-name="US Hallmark Drama " tvg-logo="https://www.heartlandweekend.com/wp-content/uploads/2019/03/1200x627-Hallmark-Drama-300x157.png" group-title="USA ",US Hallmark Drama 
+http://cord-cutter.net:8080/3TD0Cx/288255/9307
+#EXTINF:-1 tvg-id="hallmarkmoviesmysteries.us" tvg-name="US Hallmark Movies & Mysteries " tvg-logo="https://p.kindpng.com/picc/s/196-1969955_hallmark-movies-and-mysteries-channel-logo-hd-png.png" group-title="USA ",US Hallmark Movies & Mysteries 
+http://cord-cutter.net:8080/3TD0Cx/288255/10289
+#EXTINF:-1 tvg-id="hbo.us" tvg-name="US HBO East HD  " tvg-logo="" group-title="USA ",US HBO East HD  
+http://cord-cutter.net:8080/3TD0Cx/288255/46713
+#EXTINF:-1 tvg-id="hbo.us" tvg-name="US HBO " tvg-logo="https://tvzamora.net/wp-content/uploads/2016/12/hbo2.png" group-title="MOVIE NETWORKS",US HBO 
+http://cord-cutter.net:8080/3TD0Cx/288255/9264
+#EXTINF:-1 tvg-id="hbo2.us" tvg-name="US HBO 2 (A)" tvg-logo="https://tvzamora.net/wp-content/uploads/2016/12/hbo2.png" group-title="MOVIE NETWORKS",US HBO 2 (A)
+http://cord-cutter.net:8080/3TD0Cx/288255/9816
+#EXTINF:-1 tvg-id="hbocomedy.us" tvg-name="US HBO Comedy (East) " tvg-logo="https://png.pngitem.com/pimgs/s/186-1863786_hbo-comedy-logo-hbo-comedy-channel-logo-hd.png" group-title="MOVIE NETWORKS",US HBO Comedy (East) 
+http://cord-cutter.net:8080/3TD0Cx/288255/17773
+#EXTINF:-1 tvg-id="hbofamily.us" tvg-name="US HBO Family (East) " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/HBO_Family_logo.png" group-title="MOVIE NETWORKS",US HBO Family (East) 
+http://cord-cutter.net:8080/3TD0Cx/288255/17772
+#EXTINF:-1 tvg-id="hbosignature.us" tvg-name="US HBO SIGNATURE (East) " tvg-logo="https://logodix.com/logo/1111252.png" group-title="MOVIE NETWORKS",US HBO SIGNATURE (East) 
+http://cord-cutter.net:8080/3TD0Cx/288255/9266
+#EXTINF:-1 tvg-id="hbozone.us" tvg-name="US HBO Zone (East) " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/HBO_Zone_logo.png" group-title="MOVIE NETWORKS",US HBO Zone (East) 
+http://cord-cutter.net:8080/3TD0Cx/288255/9265
+#EXTINF:-1 tvg-id="hdnetmovies.us" tvg-name="US HDNET MOVIES " tvg-logo="https://www.pngjoy.com/pngm/146/2931790_brazzers-hdnet-movies-logo-png-download.png" group-title="MOVIE NETWORKS",US HDNET MOVIES 
+http://cord-cutter.net:8080/3TD0Cx/288255/16265
+#EXTINF:-1 tvg-id="heroesandiconstv.us" tvg-name="US Heroes & Icons (Los Angeles) " tvg-logo="" group-title="USA ",US Heroes & Icons (Los Angeles) 
+http://cord-cutter.net:8080/3TD0Cx/288255/66087
+#EXTINF:-1 tvg-id="hgtv.us" tvg-name="US HGTV (East) " tvg-logo="" group-title="USA ",US HGTV (East) 
+http://cord-cutter.net:8080/3TD0Cx/288255/46717
+#EXTINF:-1 tvg-id="historychannel.us" tvg-name="US HISTORY " tvg-logo="" group-title="USA ",US HISTORY 
+http://cord-cutter.net:8080/3TD0Cx/288255/46724
+#EXTINF:-1 tvg-id="historychannel.us" tvg-name="US History Channel " tvg-logo="https://i.pinimg.com/originals/f0/f5/85/f0f5853626e544b66b851b80af88ef9a.png" group-title="USA ",US History Channel 
+http://cord-cutter.net:8080/3TD0Cx/288255/15017
+#EXTINF:-1 tvg-id="hln.us" tvg-name="US HLN " tvg-logo="https://cdn.strivecloud.io/wp-content/uploads/2020/07/14143602/hln-273x202.png" group-title="USA ",US HLN 
+http://cord-cutter.net:8080/3TD0Cx/288255/17748
+#EXTINF:-1 tvg-id="independentfilmchannel.us" tvg-name="US IFC " tvg-logo="https://res-4.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco/v1412745090/blg54azaoqz0cj3at5zd.png" group-title="USA ",US IFC 
+http://cord-cutter.net:8080/3TD0Cx/288255/9272
+#EXTINF:-1 tvg-id="insp.us" tvg-name="US insp " tvg-logo="https://ww1.prweb.com/prfiles/2016/09/14/14127507/gI_84595_INSP%20HD%20logo.png" group-title="USA ",US insp 
+http://cord-cutter.net:8080/3TD0Cx/288255/16262
+#EXTINF:-1 tvg-id="investigationdiscovery.us" tvg-name="US ID Investigation Discovery " tvg-logo="" group-title="USA ",US ID Investigation Discovery 
+http://cord-cutter.net:8080/3TD0Cx/288255/46810
+#EXTINF:-1 tvg-id="ion.us" tvg-name="US ION " tvg-logo="https://2.bp.blogspot.com/-E__E_oYmXlc/UTWwxOzu9OI/AAAAAAAAY5Y/0Yn3eTdCupY/s1600/Ion+Television+logo+2013.png" group-title="USA ",US ION 
+http://cord-cutter.net:8080/3TD0Cx/288255/9297
+#EXTINF:-1 tvg-id="lafftv.us" tvg-name="US Laff (KNVA)" tvg-logo="https://sky21.com/wp-content/uploads/2019/02/LAFF.png" group-title="USA ",US Laff (KNVA)
+http://cord-cutter.net:8080/3TD0Cx/288255/17777
+#EXTINF:-1 tvg-id="lifetimenetwork.us" tvg-name="US Lifetime " tvg-logo="" group-title="USA ",US Lifetime 
+http://cord-cutter.net:8080/3TD0Cx/288255/46714
+#EXTINF:-1 tvg-id="lifetimenetwork.us" tvg-name="US Lifetime" tvg-logo="https://assets.tvplayer.com/common/logos/256/Colour/281.png" group-title="USA ",US Lifetime
+http://cord-cutter.net:8080/3TD0Cx/288255/9275
+#EXTINF:-1 tvg-id="lifetimenetwork.us" tvg-name="US Lifetime Movie" tvg-logo="https://juicetv.app/channellogo/lmn2.png" group-title="USA ",US Lifetime Movie
+http://cord-cutter.net:8080/3TD0Cx/288255/2208
+#EXTINF:-1 tvg-id="logo.us" tvg-name="USA: LOGO TV" tvg-logo="https://n7.nextpng.com/sticker-png/347/134/sticker-png-logo-tv-television-channel-viacom-media-networks-others.png" group-title="USA ",USA: LOGO TV
+http://cord-cutter.net:8080/3TD0Cx/288255/20862
+#EXTINF:-1 tvg-id="marqueesportsnetwork.us" tvg-name="US Marquee Sports Network (HD) (A)" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/41WaYQ28QLL.png" group-title="Sports Fanatic's ",US Marquee Sports Network (HD) (A)
+http://cord-cutter.net:8080/3TD0Cx/288255/13379
+#EXTINF:-1 tvg-id="mavtv.usa.us" tvg-name="US MAV TV (F)" tvg-logo="https://www.mavtv.com/assets/downloads/mavtv-color.png" group-title="Sports Fanatic's ",US MAV TV (F)
+http://cord-cutter.net:8080/3TD0Cx/288255/20977
+#EXTINF:-1 tvg-id="metv.us" tvg-name="US MeTV Network East" tvg-logo="https://stephenarnoldmusic.com/cms/wp-content/uploads/2017/02/client-logo-metv.png" group-title="USA ",US MeTV Network East
+http://cord-cutter.net:8080/3TD0Cx/288255/16149
+#EXTINF:-1 tvg-id="moremax.us" tvg-name="US More Max " tvg-logo="https://p.kindpng.com/picc/s/83-836958_more-max-hdtv-cinemax-hd-png-download.png" group-title="MOVIE NETWORKS",US More Max 
+http://cord-cutter.net:8080/3TD0Cx/288255/17776
+#EXTINF:-1 tvg-id="moviemax.us" tvg-name="US MovieMAX (East) " tvg-logo="https://www.dishactivations.com/wp-content/uploads/2014/05/MoviePlex.png" group-title="MOVIE NETWORKS",US MovieMAX (East) 
+http://cord-cutter.net:8080/3TD0Cx/288255/13480
+#EXTINF:-1 tvg-id="movieplex.us" tvg-name="US MoviePlex (East)" tvg-logo="https://p.kindpng.com/picc/s/329-3296935_showtime-extreme-logo-hd-png-download.png" group-title="MOVIE NETWORKS",US MoviePlex (East)
+http://cord-cutter.net:8080/3TD0Cx/288255/1829
+#EXTINF:-1 tvg-id="outermax.us" tvg-name="US Cinemax Outermax (X)" tvg-logo="" group-title="MOVIE NETWORKS",US Cinemax Outermax (X)
+http://cord-cutter.net:8080/3TD0Cx/288255/21012
+#EXTINF:-1 tvg-id="paramountnetwork.us" tvg-name="US Paramount Network " tvg-logo="https://images.vexels.com/media/users/3/139794/isolated/preview/63948c2cace761d17096170684e4d193-brazil-round-flag-by-vexels.png" group-title="USA ",US Paramount Network 
+http://cord-cutter.net:8080/3TD0Cx/288255/16201
+#EXTINF:-1 tvg-id="paramountnetwork.us" tvg-name="US Paramount Network " tvg-logo="" group-title="USA ",US Paramount Network 
+http://cord-cutter.net:8080/3TD0Cx/288255/46694
+#EXTINF:-1 tvg-id="paramountnetwork.us" tvg-name="US Paramount TV " tvg-logo="https://e7.pngegg.com/pngimages/707/232/png-clipart-paramount-logo-brand-park-font-park-text-photography-thumbnail.png" group-title="USA ",US Paramount TV 
+http://cord-cutter.net:8080/3TD0Cx/288255/10464
+#EXTINF:-1 tvg-id="pixltv.us" tvg-name="US PixL (S)" tvg-logo="" group-title="USA ",US PixL (S)
+http://cord-cutter.net:8080/3TD0Cx/288255/21648
+#EXTINF:-1 tvg-id="pursuitchannel.us" tvg-name="US Pursuit UP" tvg-logo="" group-title="USA ",US Pursuit UP
+http://cord-cutter.net:8080/3TD0Cx/288255/22888
+#EXTINF:-1 tvg-id="reelzchannel.us" tvg-name="US Reelz " tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b1/Reelz_Channel_Logo.png" group-title="USA ",US Reelz 
+http://cord-cutter.net:8080/3TD0Cx/288255/10526
+#EXTINF:-1 tvg-id="retroplex.us" tvg-name="US RetroPlex (East) " tvg-logo="" group-title="MOVIE NETWORKS",US RetroPlex (East) 
+http://cord-cutter.net:8080/3TD0Cx/288255/66379
+#EXTINF:-1 tvg-id="revolt.us" tvg-name="US Revolt " tvg-logo="" group-title="USA ",US Revolt 
+http://cord-cutter.net:8080/3TD0Cx/288255/39276
+#EXTINF:-1 tvg-id="rfdtv.us" tvg-name="US RFD-TV " tvg-logo="https://www.logolynx.com/images/logolynx/29/29694e6e70adeb8ed1c66a5f40c42af2.png" group-title="USA ",US RFD-TV 
+http://cord-cutter.net:8080/3TD0Cx/288255/17868
+#EXTINF:-1 tvg-id="gacliving.us" tvg-name="US GAC Living (S)" tvg-logo="" group-title="USA ",US GAC Living (S)
+http://cord-cutter.net:8080/3TD0Cx/288255/75654
+#EXTINF:-1 tvg-id="amcplus.us" tvg-name="USA: AMC Thrillers" tvg-logo="" group-title="USA ",USA: AMC Thrillers
+http://cord-cutter.net:8080/3TD0Cx/288255/66243
+#EXTINF:-1 tvg-id="discoveryscience.us" tvg-name="US Discovery Science " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6d/SCI-network-logo-192x192-v2.png" group-title="USA ",US Discovery Science 
+http://cord-cutter.net:8080/3TD0Cx/288255/20866
+#EXTINF:-1 tvg-id="showtime.us" tvg-name="US Showtime East " tvg-logo="" group-title="MOVIE NETWORKS",US Showtime East 
+http://cord-cutter.net:8080/3TD0Cx/288255/46214
+#EXTINF:-1 tvg-id="showtime2.us" tvg-name="US Showtime 2 (East) (H)" tvg-logo="https://www.allwest.com/wp-content/uploads/2018/11/showtime2-300x300.png" group-title="MOVIE NETWORKS",US Showtime 2 (East) (H)
+http://cord-cutter.net:8080/3TD0Cx/288255/13219
+#EXTINF:-1 tvg-id="showtimeextreme.us" tvg-name="US Showtime Extreme (East) (SP)" tvg-logo="https://s4827.pcdn.co/wp-content/uploads/2015/06/Showtime-sho-logo.png" group-title="MOVIE NETWORKS",US Showtime Extreme (East) (SP)
+http://cord-cutter.net:8080/3TD0Cx/288255/13220
+#EXTINF:-1 tvg-id="showtimefamilyzone.us" tvg-name="US Showtime Family Zone (East) " tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/2/23/Showtime_family_zone.png/revision/latest/scale-to-width-down/340?cb=20121117045222" group-title="MOVIE NETWORKS",US Showtime Family Zone (East) 
+http://cord-cutter.net:8080/3TD0Cx/288255/13481
+#EXTINF:-1 tvg-id="showtimewomen.us" tvg-name="US Showtime Women (East) " tvg-logo="https://www.vhv.rs/dpng/d/473-4738791_showtime-women-logo-hd-png-download.png" group-title="MOVIE NETWORKS",US Showtime Women (East) 
+http://cord-cutter.net:8080/3TD0Cx/288255/17778
+#EXTINF:-1 tvg-id="smithsonianchannel.us" tvg-name="US Smithsonian Channel (East)   " tvg-logo="" group-title="USA ",US Smithsonian Channel (East)   
+http://cord-cutter.net:8080/3TD0Cx/288255/31150
+#EXTINF:-1 tvg-id="sny.sportsnet.new.york.us" tvg-name="US Sportsnet New York (SNY) (A)" tvg-logo="https://png.pngitem.com/pimgs/s/244-2442993_sny-logo-png-transparent-png.png" group-title="Sports Fanatic's ",US Sportsnet New York (SNY) (A)
+http://cord-cutter.net:8080/3TD0Cx/288255/20938
+#EXTINF:-1 tvg-id="sportsmanchannel.us" tvg-name="US Sportsman Channel (A)" tvg-logo="" group-title="USA ",US Sportsman Channel (A)
+http://cord-cutter.net:8080/3TD0Cx/288255/79913
+#EXTINF:-1 tvg-id="starzcinema.us" tvg-name="US Starz Cinema (East) " tvg-logo="https://thestreamable.com/media/pages/news/flash-sale-get-6-months-of-starz-for-only-3-33-a-month-so-you-can-binge-power-outlander-and-american-gods/3821036974-1583185843/starz.png" group-title="MOVIE NETWORKS",US Starz Cinema (East) 
+http://cord-cutter.net:8080/3TD0Cx/288255/17775
+#EXTINF:-1 tvg-id="starzcinema.us" tvg-name="US Starz Cinema (East) " tvg-logo="https://thestreamable.com/media/pages/news/flash-sale-get-6-months-of-starz-for-only-3-33-a-month-so-you-can-binge-power-outlander-and-american-gods/3821036974-1583185843/starz.png" group-title="MOVIE NETWORKS",US Starz Cinema (East) 
+http://cord-cutter.net:8080/3TD0Cx/288255/9301
+#EXTINF:-1 tvg-id="starzcinema.us" tvg-name="US Starz East (S)" tvg-logo="https://thestreamable.com/media/pages/news/flash-sale-get-6-months-of-starz-for-only-3-33-a-month-so-you-can-binge-power-outlander-and-american-gods/3821036974-1583185843/starz.png" group-title="MOVIE NETWORKS",US Starz East (S)
+http://cord-cutter.net:8080/3TD0Cx/288255/9299
+#EXTINF:-1 tvg-id="starzencorewesterns.us" tvg-name="US Starz Encore Westerns (East) " tvg-logo="https://p.kindpng.com/picc/s/412-4120429_starz-encore-logo-transparent-hd-png-download.png" group-title="MOVIE NETWORKS",US Starz Encore Westerns (East) 
+http://cord-cutter.net:8080/3TD0Cx/288255/16263
+#EXTINF:-1 tvg-id="starzinblack.us" tvg-name="US Starz in Black (East) " tvg-logo="https://thestreamable.com/media/pages/news/flash-sale-get-6-months-of-starz-for-only-3-33-a-month-so-you-can-binge-power-outlander-and-american-gods/3821036974-1583185843/starz.png" group-title="MOVIE NETWORKS",US Starz in Black (East) 
+http://cord-cutter.net:8080/3TD0Cx/288255/17779
+#EXTINF:-1 tvg-id="starzwest.us" tvg-name="US Starz West (S)" tvg-logo="https://thestreamable.com/media/pages/news/flash-sale-get-6-months-of-starz-for-only-3-33-a-month-so-you-can-binge-power-outlander-and-american-gods/3821036974-1583185843/starz.png" group-title="MOVIE NETWORKS",US Starz West (S)
+http://cord-cutter.net:8080/3TD0Cx/288255/21091
+#EXTINF:-1 tvg-id="sundancetv.us" tvg-name="US SUNDANCE " tvg-logo="" group-title="USA ",US SUNDANCE 
+http://cord-cutter.net:8080/3TD0Cx/288255/46712
+#EXTINF:-1 tvg-id="syfy.us" tvg-name="US Syfy (East)   " tvg-logo="" group-title="USA ",US Syfy (East)   
+http://cord-cutter.net:8080/3TD0Cx/288255/46685
+#EXTINF:-1 tvg-id="trinitybroadcastingnetwork.us" tvg-name="US TBN " tvg-logo="" group-title="USA ",US TBN 
+http://cord-cutter.net:8080/3TD0Cx/288255/21895
+#EXTINF:-1 tvg-id="tbs.us" tvg-name="US TBS " tvg-logo="https://image.flaticon.com/icons/png/128/826/826355.png" group-title="USA ",US TBS 
+http://cord-cutter.net:8080/3TD0Cx/288255/20867
+#EXTINF:-1 tvg-id="golfchannel.us" tvg-name="US Golf Channel " tvg-logo="" group-title="USA ",US Golf Channel 
+http://cord-cutter.net:8080/3TD0Cx/288255/46728
+#EXTINF:-1 tvg-id="weatherchannel.us" tvg-name="US The Weather Channel " tvg-logo="" group-title="USA ",US The Weather Channel 
+http://cord-cutter.net:8080/3TD0Cx/288255/18926
+#EXTINF:-1 tvg-id="thrillermax.us" tvg-name="US ThrillerMax (East)" tvg-logo="https://archive.org/download/thrillermax/thrillermax.png" group-title="MOVIE NETWORKS",US ThrillerMax (East)
+http://cord-cutter.net:8080/3TD0Cx/288255/17774
+#EXTINF:-1 tvg-id="tlc.us" tvg-name="US TLC (East)  " tvg-logo="" group-title="USA ",US TLC (East)  
+http://cord-cutter.net:8080/3TD0Cx/288255/46691
+#EXTINF:-1 tvg-id="tlc.us" tvg-name="US TLC East " tvg-logo="https://logos.xmltv.se/en.tlc.discovery.dk.png" group-title="USA ",US TLC East 
+http://cord-cutter.net:8080/3TD0Cx/288255/12734
+#EXTINF:-1 tvg-id="tlc.us" tvg-name="US TLC (east) " tvg-logo="" group-title="USA ",US TLC (east) 
+http://cord-cutter.net:8080/3TD0Cx/288255/47703
+#EXTINF:-1 tvg-id="tntpacific.us" tvg-name="US TNT (West) " tvg-logo="" group-title="USA ",US TNT (West) 
+http://cord-cutter.net:8080/3TD0Cx/288255/46688
+#EXTINF:-1 tvg-id="tnt.us" tvg-name="US TNT East " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/68/Logo_TNT_Series.png" group-title="USA ",US TNT East 
+http://cord-cutter.net:8080/3TD0Cx/288255/10455
+#EXTINF:-1 tvg-id="travel.us" tvg-name="US Travel Channel East " tvg-logo="https://assets.simpleviewinc.com/simpleview/image/upload/c_lpad,h_364,q_50,w_520/v1/clients/chattanooga/Travel_Channel_2019_Logo_41ccc6dd-cc39-4ff9-93a7-a75ca7b509f4.png" group-title="USA ",US Travel Channel East 
+http://cord-cutter.net:8080/3TD0Cx/288255/9315
+#EXTINF:-1 tvg-id="trutv.us" tvg-name="US TRUTV East " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/TruTV_logo_2014.png" group-title="USA ",US TRUTV East 
+http://cord-cutter.net:8080/3TD0Cx/288255/10224
+#EXTINF:-1 tvg-id="univisiondeportes.us" tvg-name="US Latin TUDN" tvg-logo="https://www.sportsvideo.org/new/wp-content/uploads/2019/05/TUDN.png" group-title="Sports Fanatic's ",US Latin TUDN
+http://cord-cutter.net:8080/3TD0Cx/288255/11885
+#EXTINF:-1 tvg-id="turnerclassicmovies.us" tvg-name="CA Turner Classic Movies" tvg-logo="" group-title="USA ",CA Turner Classic Movies
+http://cord-cutter.net:8080/3TD0Cx/288255/66242
+#EXTINF:-1 tvg-id="tvlandeast.us" tvg-name="US TV Land " tvg-logo="" group-title="USA ",US TV Land 
+http://cord-cutter.net:8080/3TD0Cx/288255/46696
+#EXTINF:-1 tvg-id="tvlandeast.us" tvg-name="USA: TV Land Classic HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/76/TV_Land_2009.svg/542px-TV_Land_2009.svg.png" group-title="USA ",USA: TV Land Classic HD
+http://cord-cutter.net:8080/3TD0Cx/288255/9271
+#EXTINF:-1 tvg-id="tvone.us" tvg-name="US TV One " tvg-logo="https://www.kindpng.com/picc/m/335-3354292_tvone-logo-logo-tv-one-2019-hd-png.png" group-title="USA ",US TV One 
+http://cord-cutter.net:8080/3TD0Cx/288255/20868
+#EXTINF:-1 tvg-id="andtv.us" tvg-name="US TVG Network " tvg-logo="https://theme.zdassets.com/theme_assets/2065024/e6225e6a5baf490c31661291d86a2eb5095a499d.png" group-title="Sports Fanatic's ",US TVG Network 
+http://cord-cutter.net:8080/3TD0Cx/288255/10259
+#EXTINF:-1 tvg-id="andtv.us" tvg-name="US TVG2 Network " tvg-logo="https://godish.com/wp-content/uploads/channel-logos/tvg2.png" group-title="Sports Fanatic's ",US TVG2 Network 
+http://cord-cutter.net:8080/3TD0Cx/288255/18940
+#EXTINF:-1 tvg-id="universalkids.us" tvg-name="US Universal Kids (A)" tvg-logo="https://uploads-ssl.webflow.com/5ebd62d4a1ba4b3f936afa91/5ec45fc36cfa8576ef84d3e5_Universal.png" group-title="KIDS ZONE",US Universal Kids (A)
+http://cord-cutter.net:8080/3TD0Cx/288255/9235
+#EXTINF:-1 tvg-id="univision23wltv.us" tvg-name="US Univision (East) (SP)" tvg-logo="" group-title="USA ",US Univision (East) (SP)
+http://cord-cutter.net:8080/3TD0Cx/288255/46692
+#EXTINF:-1 tvg-id="uptv.us" tvg-name="US Up TV " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/Upmoji-orange.png" group-title="USA ",US Up TV 
+http://cord-cutter.net:8080/3TD0Cx/288255/10525
+#EXTINF:-1 tvg-id="usanetwork.us" tvg-name="US USA Network (East)  " tvg-logo="https://image.roku.com/developer_channels/prod/c616cdbf10205c0c2413689e05e7200dfe98c6c269569d958255a6e5acef1505.png" group-title="USA ",US USA Network (East)  
+http://cord-cutter.net:8080/3TD0Cx/288255/10252
+#EXTINF:-1 tvg-id="vh1.us" tvg-name="US VH1 (East) " tvg-logo="" group-title="USA ",US VH1 (East) 
+http://cord-cutter.net:8080/3TD0Cx/288255/46705
+#EXTINF:-1 tvg-id="vh1.us" tvg-name="US VH1 " tvg-logo="https://res-4.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco/v1413371145/ziqmu9l76bjxx9rz9qat.png" group-title="USA ",US VH1 
+http://cord-cutter.net:8080/3TD0Cx/288255/7404
+#EXTINF:-1 tvg-id="vice.us" tvg-name="US VICELAND " tvg-logo="" group-title="USA ",US VICELAND 
+http://cord-cutter.net:8080/3TD0Cx/288255/46697
+#EXTINF:-1 tvg-id="vsin.us" tvg-name="US VSiN (F)" tvg-logo="https://www.crossovermediagroup.com/wp-content/uploads/2018/09/vsin.png" group-title="Sports Fanatic's ",US VSiN (F)
+http://cord-cutter.net:8080/3TD0Cx/288255/18941
+#EXTINF:-1 tvg-id="wapaamerica.us" tvg-name="US WAPA America " tvg-logo="" group-title="USA ",US WAPA America 
+http://cord-cutter.net:8080/3TD0Cx/288255/76481
+#EXTINF:-1 tvg-id="wetv.us" tvg-name="US WE tv " tvg-logo="https://godish.com/wp-content/uploads/channel-logos/we.png" group-title="USA ",US WE tv 
+http://cord-cutter.net:8080/3TD0Cx/288255/9237
+#EXTINF:-1 tvg-id="worldfishingnetwork.us" tvg-name="US World Fishing Network (F)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/90/World_Fishing_Network.png" group-title="USA ",US World Fishing Network (F)
+http://cord-cutter.net:8080/3TD0Cx/288255/10477
+#EXTINF:-1 tvg-id="" tvg-name="VOCM | AM St. John's, Newfoundland" tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/cb3kqe5xAa.png" group-title="Radio Stations",VOCM | AM St. John's, Newfoundland
+http://cord-cutter.net:8080/3TD0Cx/288255/16240
+#EXTINF:-1 tvg-id="" tvg-name="CINEBOX: ANIMATION" tvg-logo="" group-title="24/7 CHANNELS ",CINEBOX: ANIMATION
+http://cord-cutter.net:8080/3TD0Cx/288255/119420
+#EXTINF:-1 tvg-id="" tvg-name="CINEBOX: BLOCKBUSTERS" tvg-logo="" group-title="24/7 CHANNELS ",CINEBOX: BLOCKBUSTERS
+http://cord-cutter.net:8080/3TD0Cx/288255/119421
+#EXTINF:-1 tvg-id="" tvg-name="CINEBOX: CLASSIC" tvg-logo="" group-title="24/7 CHANNELS ",CINEBOX: CLASSIC
+http://cord-cutter.net:8080/3TD0Cx/288255/119422
+#EXTINF:-1 tvg-id="" tvg-name="CINEBOX: COMEDY" tvg-logo="" group-title="24/7 CHANNELS ",CINEBOX: COMEDY
+http://cord-cutter.net:8080/3TD0Cx/288255/119423
+#EXTINF:-1 tvg-id="" tvg-name="CINEBOX: CULT" tvg-logo="" group-title="24/7 CHANNELS ",CINEBOX: CULT
+http://cord-cutter.net:8080/3TD0Cx/288255/119424
+#EXTINF:-1 tvg-id="" tvg-name="CINEBOX: FAMILY" tvg-logo="" group-title="24/7 CHANNELS ",CINEBOX: FAMILY
+http://cord-cutter.net:8080/3TD0Cx/288255/119425
+#EXTINF:-1 tvg-id="" tvg-name="CINEBOX: GREATS" tvg-logo="" group-title="24/7 CHANNELS ",CINEBOX: GREATS
+http://cord-cutter.net:8080/3TD0Cx/288255/119426
+#EXTINF:-1 tvg-id="" tvg-name="CINEBOX: GREATS TWO" tvg-logo="" group-title="24/7 CHANNELS ",CINEBOX: GREATS TWO
+http://cord-cutter.net:8080/3TD0Cx/288255/119427
+#EXTINF:-1 tvg-id="" tvg-name="CINEBOX: HISTORICAL" tvg-logo="" group-title="24/7 CHANNELS ",CINEBOX: HISTORICAL
+http://cord-cutter.net:8080/3TD0Cx/288255/119428
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Horror Movies" tvg-logo="" group-title="24/7 CHANNELS ",24/7 Horror Movies
+http://cord-cutter.net:8080/3TD0Cx/288255/119429
+#EXTINF:-1 tvg-id="" tvg-name="CINEBOX: MUSICAL" tvg-logo="" group-title="24/7 CHANNELS ",CINEBOX: MUSICAL
+http://cord-cutter.net:8080/3TD0Cx/288255/119430
+#EXTINF:-1 tvg-id="" tvg-name="CINEBOX: MYSTERY" tvg-logo="" group-title="24/7 CHANNELS ",CINEBOX: MYSTERY
+http://cord-cutter.net:8080/3TD0Cx/288255/119431
+#EXTINF:-1 tvg-id="" tvg-name="CINEBOX: PREMIERE" tvg-logo="" group-title="24/7 CHANNELS ",CINEBOX: PREMIERE
+http://cord-cutter.net:8080/3TD0Cx/288255/119432
+#EXTINF:-1 tvg-id="" tvg-name="CINEBOX: ROMANCE" tvg-logo="" group-title="24/7 CHANNELS ",CINEBOX: ROMANCE
+http://cord-cutter.net:8080/3TD0Cx/288255/119433
+#EXTINF:-1 tvg-id="" tvg-name="CINEBOX: SCI-FI" tvg-logo="" group-title="24/7 CHANNELS ",CINEBOX: SCI-FI
+http://cord-cutter.net:8080/3TD0Cx/288255/119434
+#EXTINF:-1 tvg-id="" tvg-name="CINEBOX: WESTERN" tvg-logo="" group-title="24/7 CHANNELS ",CINEBOX: WESTERN
+http://cord-cutter.net:8080/3TD0Cx/288255/119435
+#EXTINF:-1 tvg-id="" tvg-name="CINEBOX: HITS" tvg-logo="" group-title="24/7 CHANNELS ",CINEBOX: HITS
+http://cord-cutter.net:8080/3TD0Cx/288255/119436
+#EXTINF:-1 tvg-id="" tvg-name="CINEBOX: THRILLER" tvg-logo="" group-title="24/7 CHANNELS ",CINEBOX: THRILLER
+http://cord-cutter.net:8080/3TD0Cx/288255/119437
